@@ -23,7 +23,7 @@ A premium version of OmesFN is also available and is **10x better than the free 
 `🎈` 2FA  
 `🎈` Skin Count  
 `🎈` FA or NFA  
-`🎈` Last Game Played 
+`🎈` Last Game Played  
 `🎈` And More  
 
 ---
