@@ -1,7 +1,7 @@
 # OmesFN
 
 OmesFN is an open-source XboxFN account checker written in Go.  
-Some people (NFA x Skid) have claimed that the project contains a logger, but the full source code is publicly available for anyone to inspect and verify.
+Some people (NFA x Skid) have claimed, without providing any proof, that the project contains a logger. However, the full source code is publicly available for anyone to inspect and verify.
 
 `💎` Open Source  
 `💎` Fast & Lightweight  
