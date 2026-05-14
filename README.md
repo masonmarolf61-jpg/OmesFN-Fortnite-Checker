@@ -3,14 +3,13 @@
 OmesFN is an open-source XboxFN account checker written in Go.  
 Some people (NFA x Skid) have claimed that the project contains a logger, but the full source code is publicly available for anyone to inspect and verify.
 
-<br>
 # Capture
-`🎈` Exclusive<br>
-`🎈` 2FA<br>
-`🎈` Skin Count<br>
-`🎈` FA or NFA<br>
-`🎈` Last Game<br>
-`🎈` And more !<br>
+`🎈` Exclusive
+`🎈` 2FA
+`🎈` Skin Count
+`🎈` FA or NFA
+`🎈` Last Game
+`🎈` And more !
 
 # Features
 - Send hits to discord webhook
@@ -19,9 +18,9 @@ Some people (NFA x Skid) have claimed that the project contains a logger, but th
 - Easy to use
 
 # Setup
-`📦` Install [Go](https://go.dev/doc/install)<br>
-`📦` Open commands<br>
-`📦` Run go build<br>
+`📦` Install [Go](https://go.dev/doc/install)
+`📦` Open commands
+`📦` Run go build
 
 # Discord
 https://discord.gg/xHxXydyedw
