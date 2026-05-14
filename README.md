@@ -1,5 +1,8 @@
-# WE are open source, NFA x World are clown saying it got a logger... check source... gng not that hard... 
-`💎` - OmesFN<br>
+# 💎 OmesFN
+
+OmesFN is an open-source XboxFN account checker written in Go.  
+Some people (NFA x Skid) have claimed that the project contains a logger, but the full source code is publicly available for anyone to inspect and verify.
+
 <br>
 # Capture
 `🎈` Exclusive<br>
@@ -20,11 +23,6 @@
 `📦` Open commands<br>
 `📦` Run go build<br>
 
-
-# Link
-*For now, everything is on*  : https://frozi.lol/og<br>
-
 # Discord
-https://discord.gg/DRYsdnazZa
-
+https://discord.gg/xHxXydyedw
 
