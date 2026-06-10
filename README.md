@@ -11,9 +11,7 @@ Some people (NFA x Skid) have claimed, without providing any proof, that the pro
 
 # Premium Version
 
-A premium version of OmesFN is also available and is **10x better than the free version**, offering more advanced features, additional checkers and modules such as the Hotmail Inboxer IMAP Checker and many more, improved performance, and exclusive updates.
-
-🛒 **Shop:** [https://darko.myauthsell.com](https://darko.mysellauth.com/)
+A premium version of OmesFN is also available and is **10x better than the free version**, offering more advanced features, additional checkers and modules such as the Hotmail Inboxer IMAP Checker and many more, improved 
 
 ---
 
